@@ -1,0 +1,2 @@
+favorite_artists = ['cuco','aesop rock','fred again...','nofx','less than jake','soundgarden','nina simone']
+print(f"Here is are three of my favorite artists: '{favorite_artists[0].title()}, {favorite_artists[3].title()}, {favorite_artists[-1].title()}'")
