@@ -34,6 +34,7 @@ for item in favorite_artists:
     print(item.title())
     
 removed_artists = favorite_artists.pop()
+
 print(f"\nI'm taking this one off of my list:\n{removed_artists.title()}")
 
 
